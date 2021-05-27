@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Craig Kahle
+description: Cloud Engineer | Google | Keep it simple
 
-baseurl: /gradfolio #name of GitHub repository
-url: #custom url to be used instead of GitHub repository
-email: #
+baseurl: /ckahle33.github.io #name of GitHub repository
+url: "https://craigkahle.com"
+email: "ckahle33@gmail.com"
 
 
 highlighter: rouge
@@ -17,12 +17,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+twitter: "https://twitter.com/craigkahle"
+linkedin: "https://www.linkedin.com/in/craig-kahle-53b7652b/"
+github: "https://github.com/ckahle33"
 
 highlighter: rouge
 markdown: kramdown
